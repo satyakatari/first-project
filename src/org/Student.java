@@ -22,5 +22,7 @@ public class Student extends Hostel {
 	private void a3() {
 		System.out.println("a3");
 	}
-
+private void a4() {
+	System.out.println("a4");
+}
 }
