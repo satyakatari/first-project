@@ -12,5 +12,15 @@ public class Student extends Hostel {
 		System.out.println("student dept is computer science");
 
 	}
+	private void a1() {
+	System.out.println("a1");
+	}
+	private void a2() {
+		System.out.println("a2");
+
+	}
+	private void a3() {
+		System.out.println("a3");
+	}
 
 }
